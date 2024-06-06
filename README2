@@ -1,0 +1,5 @@
+<br>
+Facemask Detection _(Duration: 4 Months)
+</br>
+The system focuses on detecting a person wearing a mask on the video stream with the aid 
+of computer vision and deep learning algorithms by using TensorFlow, OpenCV, and Keras library with CNN (for image extraction).
